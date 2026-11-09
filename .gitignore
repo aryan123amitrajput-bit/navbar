@@ -6,3 +6,4 @@ tools/out/
 *.log
 .DS_Store
 node_modules
+docs/*.zip
