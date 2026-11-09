@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Liquid Glass",
+    "slug": "liquid-glass-navbar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#06070D",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#06070D"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.aryan.liquidglass"
+    },
+    "android": {
+      "package": "com.aryan.liquidglass",
+      "edgeToEdgeEnabled": true,
+      "adaptiveIcon": {
+        "backgroundColor": "#06070D"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
