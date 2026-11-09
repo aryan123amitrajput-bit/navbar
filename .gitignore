@@ -5,3 +5,4 @@ web-build/
 tools/out/
 *.log
 .DS_Store
+node_modules
