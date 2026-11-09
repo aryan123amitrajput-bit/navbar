@@ -3,7 +3,7 @@
 A floating glass navigation bar with **real refraction**, not a translucent rectangle. It runs on
 Expo's Snack runtime, so you can open it on your phone in about a minute with no local build.
 
-![preview](tools/out/navbar-preview.png)
+![preview](docs/preview.png)
 
 Four destinations — Home, Search, Alerts, Profile — with a spring-driven selection lens and
 functional navigation between them.
